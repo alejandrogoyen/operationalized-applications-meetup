@@ -3,7 +3,7 @@ resources:
 - name: github
   type: git
   source:
-    uri: https://github.com/joshlong/operationalized-applications-meetup
+    uri: https://github.com/alejandrogoyen/operationalized-applications-meetup
     branch: master
 - name: pivotal-web-services
   type: cf
