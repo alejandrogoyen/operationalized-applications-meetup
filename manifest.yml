@@ -1,6 +1,6 @@
 ---
 applications:
-- name: rr-php
+- name: rr-php-ag
   memory: 1024M
   instances: 2
   buildpack: java_buildpack
